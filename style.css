@@ -1,0 +1,16 @@
+/* All styling is done here */
+body
+{
+    background-color: rgb(216, 182, 141);
+}
+h1
+{
+ color: rgb(58, 2, 2);
+}
+div
+{
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+    font-style: italic;
+    font-size: 30px;
+}
